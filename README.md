@@ -30,3 +30,7 @@ Automatically generates the mpdb file by calling catdcd. catdcd must be present 
 
 Type *python3 mpdb2xyzr.py -h* or *--help* for more informations.
 
+## Output
+The script automatically creates a *results* folder containing a sub-folder named as the structure name (same as the mpdb and pqr filename).
+Within this folder a folder containing all xyzr frames. Frames are numbered from 1 to max_frame with leading zeros padding.
+

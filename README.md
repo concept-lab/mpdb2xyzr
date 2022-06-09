@@ -34,3 +34,5 @@ Type *python3 mpdb2xyzr.py -h* or *--help* for more informations.
 The script automatically creates a *results* folder containing a sub-folder named as the structure name (same as the mpdb and pqr filename).
 Within this folder a folder containing all xyzr frames. Frames are numbered from 1 to max_frame with leading zeros padding.
 
+## References
+A. Raffo, L. Gagliardi, U. Fugacci, L. Sagresti, S. Grandinetti, G. Brancato S. Biasotti, W. Rocchia. "Chanalyzer: a computational geometry approach for the analysis of protein channel shape and dynamics", under review at Frontiers in Molecular Biosciences, 2022.
